@@ -1,0 +1,12 @@
+# Python bytecode and cache files
+_pycache_/
+*.pyc
+
+# Local data assets (Prevents your database files from being overwritten on GitHub)
+backend/academic_records.txt
+backend/student_performance.csv
+
+# User-specific or environment configurations
+.streamlit/
+.env
+.DS_Store
