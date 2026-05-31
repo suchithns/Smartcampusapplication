@@ -1,0 +1,11 @@
+{
+    "101": {
+        "name": "rahul",
+        "age": 20,
+        "grades": {
+            "Exam Score": 75.0,
+            "Grade": "C",
+            "Remark": "Good"
+        }
+    }
+}
